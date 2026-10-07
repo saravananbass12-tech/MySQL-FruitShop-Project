@@ -270,12 +270,6 @@ Triggers
 
 ---
 
-# ⭐ Support
-
-If you found this project useful, please consider giving the repository a ⭐ **Star** on GitHub.
-
----
-
 <div align="center">
 
 ### 🍎 FruitShop MySQL Database Project
